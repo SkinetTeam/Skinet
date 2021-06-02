@@ -1,0 +1,25 @@
+name: Skinet
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - pip:
+    - tensorflow-gpu==1.15.5
+    - tensorboard==1.15
+    - keras==2.3.1
+    - h5py==2.10.0
+    - jupyter
+    - matplotlib
+    - numpy==1.18.3
+    - opencv-python==4.2.0.34
+    - imgaug==0.4.0
+    - ipython
+    - jsonschema
+    - html5lib
+    - imageio==2.8.0
+    - imagesize==1.2.0
+    - pillow==7.1.1
+    - scikit-image==0.15.0
+    - scipy==1.1.0
+
+
