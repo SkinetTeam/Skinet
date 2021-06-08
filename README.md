@@ -11,4 +11,4 @@ Last : [![Open Inference Tool In Colab](https://colab.research.google.com/assets
 
 v1.0 : [![Open Inference Tool In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SkinetTeam/Skinet/blob/v1.0/Skinet_Inference_Tool.ipynb)
 
-v1.1 : [![Open Inference Tool In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SkinetTeam/Skinet/blob/v1.1/Skinet_Inference_Tool.ipynb)
+v1.1.1 : [![Open Inference Tool In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SkinetTeam/Skinet/blob/v1.1.1/Skinet_Inference_Tool.ipynb)
