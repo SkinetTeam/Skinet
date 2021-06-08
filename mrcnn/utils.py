@@ -32,7 +32,7 @@ from mrcnn import datasetDivider as dD
 
 from mrcnn.config import Config
 
-WEIGHTS_URL = ["https://github.com/SkinetTeam/Skinet/releases/download/v1.0/skinet_cortex.h5",
+WEIGHTS_URL = ["https://github.com/SkinetTeam/Skinet/releases/download/v1.1/skinet_cortex.h5",
                "https://github.com/SkinetTeam/Skinet/releases/download/v1.0/skinet_main.h5"]
 
 
