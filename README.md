@@ -1,6 +1,6 @@
 # SKINET (Segmentation of the KIdney through a Neural nETwork) Project
 
-SKINET Project is meant to perform a segmentation of a kidney's biopsy or a nephrectomy and recognize the different histological structures. By doing that, it is possible to analyze kidneys more precisely and get a better understanding of their behaviors.
+SKINET Project is meant to provide a segmentation of the different structures in kidney histological tissue (biopsy or nephrectomy). 
 
 The project's code is based on [Matterport's Mask R-CNN](https://github.com/matterport/Mask_RCNN) and [Navidyou's repository](https://github.com/navidyou/Mask-RCNN-implementation-for-cell-nucleus-detection-executable-on-google-colab-).
 
